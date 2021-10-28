@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PWPB Fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="text_home">Home</string>
+    <string name="text_dashboard">Dashboard</string>
+    <string name="text_notifications">Notifications</string>
+    <string name="text_profile">Profile</string>
+</resources>
